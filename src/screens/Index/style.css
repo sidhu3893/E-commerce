@@ -1,0 +1,594 @@
+.index {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .iphone-pro {
+    background: linear-gradient(
+      180deg,
+      rgb(172.26, 247.56, 238.53) 91.15%,
+      rgba(163.71, 224.55, 228.44, 0) 95.83%,
+      rgba(249.23, 168.52, 168.52, 0.21) 95.94%
+    );
+    background-color: rgba(255, 255, 255, 1);
+    height: 852px;
+    position: relative;
+    width: 393px;
+  }
+  
+  .index .ellipse {
+    background-color: #afeef2;
+    border-radius: 21px;
+    height: 42px;
+    left: 39px;
+    position: absolute;
+    top: 42px;
+    width: 42px;
+  }
+  
+  .index .icon-horizontal {
+    height: 12px;
+    left: 5px;
+    position: absolute;
+    top: 15px;
+    width: 32px;
+  }
+  
+  .index .overlap {
+    background-color: #afeef2;
+    background-image: url(https://cdn.animaapp.com/projects/64ff193fe0658c151167941d/releases/64ff2830aa3502c1cb516c9b/img/unsplash-u49hkwztl3w@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 21px;
+    height: 42px;
+    left: 319px;
+    position: absolute;
+    top: 42px;
+    width: 42px;
+  }
+  
+  .index .overlap-group {
+    background-color: #cfe2dd;
+    border-radius: 40px;
+    height: 77px;
+    left: 0;
+    position: absolute;
+    top: 775px;
+    width: 393px;
+  }
+  
+  .index .icon-bars {
+    height: 20px;
+    left: 123px;
+    position: absolute;
+    top: 29px;
+    width: 17px;
+  }
+  
+  .index .icon-shopping-cart {
+    height: 20px;
+    left: 217px;
+    position: absolute;
+    top: 29px;
+    width: 30px;
+  }
+  
+  .index .icon-user {
+    height: 20px;
+    left: 313px;
+    position: absolute;
+    top: 29px;
+    width: 25px;
+  }
+  
+  .index .icon-damaged-house {
+    display: block;
+    height: 20px;
+    left: 35px;
+    position: absolute;
+    top: 29px;
+    width: 32px;
+  }
+  
+  .index .match-your-style {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .index .image {
+    object-fit: cover;
+    position: absolute;
+  }
+  
+  .index .party-wear {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    height: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .index .span {
+    color: #000000;
+  }
+  
+  .index .text-wrapper {
+    color: #000000;
+    font-size: 16px;
+  }
+  
+  .index .text-wrapper-2 {
+    color: #27515a;
+    font-size: 16px;
+  }
+  
+  .index .text-wrapper-3 {
+    color: #27515a;
+  }
+  
+  .index .div {
+    position: absolute;
+  }
+  
+  .index .img {
+    position: absolute;
+  }
+  
+  .index .text-wrapper-4 {
+    color: #3d6860;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 51px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 13px;
+    width: 84px;
+  }
+  
+  .index .image-2 {
+    height: 169px;
+    left: 32px;
+    object-fit: cover;
+    position: absolute;
+    top: 297px;
+    width: 149px;
+  }
+  
+  .index .formal-shirt {
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .index .overlap-2 {
+    position: absolute;
+  }
+  
+  .index .s {
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .index .icon-trash {
+    height: 17px;
+    left: 353px;
+    position: absolute;
+    top: 297px;
+    width: 16px;
+  }
+  
+  .index .image-3 {
+    height: 170px;
+    left: 32px;
+    object-fit: cover;
+    position: absolute;
+    top: 490px;
+    width: 149px;
+  }
+  
+  .index .t-shirt {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 57px;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 485px;
+    width: 129px;
+  }
+  
+  .index .overlap-3 {
+    position: absolute;
+  }
+  
+  .index .m {
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .index .icon-trash-2 {
+    height: 17px;
+    left: 353px;
+    position: absolute;
+    top: 490px;
+    width: 16px;
+  }
+  
+  .index .l-wrapper {
+    position: absolute;
+  }
+  
+  .index .l {
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .index .xl-wrapper {
+    background-color: #d9d9d9;
+    position: absolute;
+  }
+  
+  .index .xl {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .index .div-wrapper {
+    background-color: #d9d9d9;
+    border-radius: 10.5px;
+    height: 21px;
+    left: 251px;
+    position: absolute;
+    top: 567px;
+    width: 21px;
+  }
+  
+  .index .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: nowrap;
+    width: 12px;
+  }
+  
+  .index .grand-total {
+    font-family: "Inter", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+  }
+  
+  .index .text-wrapper-6 {
+    color: #b8a0a0;
+  }
+  
+  .index .overlap-4 {
+    position: absolute;
+  }
+  
+  .index .image-4 {
+    height: 170px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 138px;
+  }
+  
+  .index .ellipse-2 {
+    position: absolute;
+  }
+  
+  .index .icon-heart {
+    height: 20px;
+    left: 9px;
+    position: absolute;
+    top: 14px;
+    width: 27px;
+  }
+  
+  .index .text-wrapper-7 {
+    color: #205158;
+    font-family: "Inter", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 17px;
+    transform: rotate(0.33deg);
+    white-space: nowrap;
+    width: 211px;
+  }
+  
+  .index .rectangle {
+    height: 37px;
+    left: 229px;
+    position: absolute;
+    top: 0;
+    width: 129px;
+  }
+  
+  .index .text-wrapper-8 {
+    color: #205158;
+    font-family: "Inter", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    height: 16px;
+    left: 188px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 16px;
+    transform: rotate(0.33deg);
+    white-space: nowrap;
+    width: 211px;
+  }
+  
+  .index .overlap-5 {
+    background-image: url(https://cdn.animaapp.com/projects/64ff193fe0658c151167941d/releases/64ff2830aa3502c1cb516c9b/img/image-2@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 170px;
+    left: 205px;
+    position: absolute;
+    top: 305px;
+    width: 149px;
+  }
+  
+  .index .ellipse-3 {
+    background-color: #ffffff;
+    border-radius: 15px/14px;
+    height: 28px;
+    left: 111px;
+    position: absolute;
+    top: 15px;
+    width: 30px;
+  }
+  
+  .index .icon-heart-2 {
+    height: 20px;
+    left: 112px;
+    position: absolute;
+    top: 19px;
+    width: 27px;
+  }
+  
+  .index .overlap-6 {
+    background-image: url(https://cdn.animaapp.com/projects/64ff193fe0658c151167941d/releases/64ff2830aa3502c1cb516c9b/img/image-3@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 170px;
+    left: 30px;
+    position: absolute;
+    top: 541px;
+    width: 145px;
+  }
+  
+  .index .ellipse-4 {
+    background-color: #ffffff;
+    border-radius: 15px/14px;
+    height: 28px;
+    left: 9px;
+    position: absolute;
+    top: 7px;
+    width: 30px;
+  }
+  
+  .index .icon-heart-3 {
+    height: 20px;
+    left: 10px;
+    position: absolute;
+    top: 11px;
+    width: 27px;
+  }
+  
+  .index .overlap-7 {
+    background-image: url(https://cdn.animaapp.com/projects/64ff193fe0658c151167941d/releases/64ff2830aa3502c1cb516c9b/img/image-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 170px;
+    left: 205px;
+    position: absolute;
+    top: 541px;
+    width: 149px;
+  }
+  
+  .index .ellipse-5 {
+    background-color: #ffffff;
+    border-radius: 15px/14px;
+    height: 28px;
+    left: 112px;
+    position: absolute;
+    top: 10px;
+    width: 30px;
+  }
+  
+  .index .icon-heart-4 {
+    height: 20px;
+    left: 113px;
+    position: absolute;
+    top: 15px;
+    width: 27px;
+  }
+  
+  .index .p {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 38px;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 486px;
+    width: 129px;
+  }
+  
+  .index .casuals {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 38px;
+    left: 218px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 486px;
+    width: 129px;
+  }
+  
+  .index .blazzers {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 38px;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 726px;
+    width: 129px;
+  }
+  
+  .index .trip-wear {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 38px;
+    left: 212px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 722px;
+    width: 129px;
+  }
+  
+  .index .ellipse-6 {
+    position: absolute;
+  }
+  
+  .index .icon-damaged-house-2 {
+    height: 20px;
+    left: 35px;
+    position: absolute;
+    top: 29px;
+    width: 32px;
+  }
+  
+  .index .ellipse-7 {
+    background-color: #19d0c5;
+    border-radius: 20px/18px;
+    height: 36px;
+    left: 100px;
+    position: absolute;
+    top: 679px;
+    width: 40px;
+  }
+  
+  .index .ellipse-8 {
+    background-color: #1fbf26;
+    border-radius: 20px/18px;
+    height: 36px;
+    left: 160px;
+    position: absolute;
+    top: 679px;
+    width: 40px;
+  }
+  
+  .index .ellipse-9 {
+    background-color: #fbef7c;
+    border-radius: 20px/18px;
+    height: 36px;
+    left: 217px;
+    position: absolute;
+    top: 679px;
+    width: 40px;
+  }
+  
+  .index .overlap-8 {
+    height: 37px;
+    left: 67px;
+    position: absolute;
+    top: 727px;
+    width: 253px;
+  }
+  
+  .index .rectangle-2 {
+    height: 37px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 253px;
+  }
+  
+  .index .text-wrapper-9 {
+    color: #205158;
+    font-family: "Inter", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    height: 17px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 17px;
+    transform: rotate(0.33deg);
+    white-space: nowrap;
+    width: 211px;
+  }
+  
